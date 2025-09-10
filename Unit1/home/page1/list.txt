@@ -1,0 +1,43 @@
+a group of rooms for living in, usually on one floor of a big building.wav
+a place for people to swim in.wav
+a place for you to keep your car at home.wav
+a room or building with equipment for doing physical exercise.wav
+a small area on the outside wall of a building, above the ground, where you can stand or sit.wav
+an area next to a building or house, usually with grass and trees.wav
+Do Jack and his friends live in the city.wav
+Do Jack and I live in the city.wav
+Do Jack and your family live in the city.wav
+Do you live in a house.wav
+Does Jack live in the city.wav
+Does Jack's apartment have a balcony.wav
+Does Jack's aunt live in the country.wav
+I don't live in an apartment.wav
+I live in an apartment.wav
+Jack and his friends don't live in the city.wav
+Jack and his friends live in the city.wav
+Jack and I don't live in the city.wav
+Jack and I live in the city.wav
+Jack and your family don't live in the city.wav
+Jack and your friends live in the city.wav
+Jack doesn't live in the city.wav
+Jack lives in the city.wav
+Jack's apartment doesn't have a balcony.wav
+Jack's apartment has a balcony.wav
+Jack's aunt doesn't live in the country.wav
+Jack's aunt lives in the country.wav
+No, he doesn't.wav
+No, I don't.wav
+No, it doesn't.wav
+No, she doesn't.wav
+No, they don't.wav
+No, we don't.wav
+No, you don't.wav
+Yes, he does.wav
+Yes, I do.wav
+Yes, it does.wav
+Yes, she does.wav
+Yes, they do.wav
+Yes, we do.wav
+Yes, you do.wav
+You don't live in a house.wav
+You live in a house.wav
